@@ -8,7 +8,16 @@ Transitioning to UX/UI design, I bring project management and human-centered des
 |               |               |               |
 | :-------------| :-------------| :-------------|
 |*User Reasearch|*Wireframing   |*Prototyping   |
-|*nteraction Design |*Usability Testing   |*Project Management  |
+|*Interaction Design |*Usability Testing   |*Project Management  |
+|*Communication |*Information Architecture   |*User Flow Mapping  |
+
+### Technical Skills
+|               |               |               |
+| :-------------| :-------------| :-------------|
+|*Figma|*Adobe XD   |*Google Forms   |
+|*WordPress  |*Responsive Design |*HTML, CSS  |
+|*MS Office + Projects |*Adobe Premiere Pro   |*Framer  |
+
 
 ### Education
 **Bachelor of Technology: Urban  Engineering**
