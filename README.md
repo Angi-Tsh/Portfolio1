@@ -2,8 +2,8 @@
 A UI/UX Designer learning Front-End Development.
 
 <div style="display: flex; justify-content: space-between;">
-  <span> -Assistant Language Teacher April 2022 - July 2025 </span>
-  <span>Right Text</span>
+  <span> -Assistant Language Teacher</span>
+  <span>April 2022 - July 2025</span>
 </div>
 
 ### Background
