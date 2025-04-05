@@ -1,22 +1,34 @@
-# UI/UX Designer
-I am a UI/UX Designer learning Front-End Development
+<img src="PXL_20240217_064405796.jpg" alt="My Profile Picture" width="150" height="200" align="left" style="margin-right: 10px;">
+
+# **UI/UX Designer**
+
+I am a UI/UX Designer learning Front-End Development.
+
 
 ### Background
 Transitioning to UX/UI design, I bring project management and human-centered designs. I've led teams of 20, planned large-scale projects, and achieved successful outcomes in civil engineering and recently UX design. Skilled in analysis and implementation of design principles, I'm eager to create intuitive digital experiences. My background in civil engineering and teaching equips me to explain complex ideas, influence decisions, and execute design solutions.
 
-### Key Competencies
+<div style="background-color: #8E07F5; padding: 15px; border-radius: 5px;">
+  <h3>Key Competencies</h3>
+
 |              |              |              |
 | :----------- | :----------- | :----------- |
 | User Research | Wireframing  | Prototyping    |
 | Interaction Design | Usability Testing | Project Management |
 | Communication | Information Architecture | User Flow Mapping |
+</div>
 
-### Technical Skills
+<div style="background-color: #8E07F5; padding: 15px; border-radius: 5px;">
+  <h3>Technical Skills</h3>
+  
 |               |               |               |
 | :-------------| :-------------| :-------------|
 | Figma| Adobe XD,Lr & Pr  | Google Forms   |
 | WordPress  | Responsive Design | HTML, CSS  |
 | MS Office + Projects | Adobe Premiere Pro   | Framer  |
+</div>
+
+---
 
 ### Professional Experience 
 **Mikuni Junior High School**
@@ -38,6 +50,7 @@ Transitioning to UX/UI design, I bring project management and human-centered des
 2. Led construction projects, ensuring compliance with design specifications, quality, and safety standards. Implemented project timelines, financial forecasts, and contract administration. Processed payment certificates, including projects valued at R 16.7M+.
 3. Devised competitive bids, specifications, and quantity surveys to secure project contracts.
 
+---
 
 ### Education
 **Bachelor of Technology: Urban  Engineering**
@@ -52,6 +65,8 @@ Transitioning to UX/UI design, I bring project management and human-centered des
   
 **Google UX Design Certificate**
 - Coursera, *2024*
+  
+---
 
 ### Projects
 **Mikuni Chochin**
