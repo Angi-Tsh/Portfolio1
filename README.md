@@ -4,11 +4,12 @@
 
 I am a UI/UX Designer learning Front-End Development.
 
+<br clear="left"> <hr>
 
 ### Background
 Transitioning to UX/UI design, I bring project management and human-centered designs. I've led teams of 20, planned large-scale projects, and achieved successful outcomes in civil engineering and recently UX design. Skilled in analysis and implementation of design principles, I'm eager to create intuitive digital experiences. My background in civil engineering and teaching equips me to explain complex ideas, influence decisions, and execute design solutions.
 
-<div style="background-color: #8E07F5; padding: 15px; border-radius: 5px;">
+<div style="background-color: #8E07F5; padding: 15px; border-radius: 5px; width:100%;">
   <h3>Key Competencies</h3>
 
 |              |              |              |
@@ -18,7 +19,7 @@ Transitioning to UX/UI design, I bring project management and human-centered des
 | Communication | Information Architecture | User Flow Mapping |
 </div>
 
-<div style="background-color: #8E07F5; padding: 15px; border-radius: 5px;">
+<div style="background-color: #8E07F5; padding: 15px; border-radius: 5px;  width:100%;">
   <h3>Technical Skills</h3>
   
 |               |               |               |
@@ -28,7 +29,6 @@ Transitioning to UX/UI design, I bring project management and human-centered des
 | MS Office + Projects | Adobe Premiere Pro   | Framer  |
 </div>
 
----
 
 ### Professional Experience 
 **Mikuni Junior High School**
@@ -77,12 +77,16 @@ Web-page photo contest for Mikuni Chochin, focusing on the history and cultural 
 
 <a href="https://www.behance.net/gallery/206919081/UXUI-Web-App-Case-Study">See Case Study </a>
 
+<div style="border-top: 5px solid #ccc; margin: 10px 0; width: 50%;"></div>
+
 
 **The Baobab Route**
 - Research and UI/UX Design 
 A Community Based Tourism app to link local hosts and craftsman in rural South Africa to travelers, a collaborative course project.
 
 <a href="https://www.youtube.com/watch?v=sbUC9U0ZIw8"> Watch Presentation </a>
+
+<div style="border-top: 2px solid #ccc; margin: 10px 0; width: 50%;"></div>
 
 
 **FJET website**
