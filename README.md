@@ -1,6 +1,10 @@
 # UI/UX Designer
 A UI/UX Designer learning Front-End Development.
 
+<div style="display: flex; justify-content: space-between;">
+  <span> -Assistant Language Teacher April 2022 - July 2025 </span>
+  <span>Right Text</span>
+</div>
 
 ### Background
 Transitioning to UX/UI design, I bring project management and human-centered designs. I've led teams of 20, planned large-scale projects, and achieved successful outcomes in civil engineering and recently UX design. Skilled in analysis and implementation of design principles, I'm eager to create intuitive digital experiences. My background in civil engineering and teaching equips me to explain complex ideas, influence decisions, and execute design solutions.
