@@ -8,6 +8,7 @@ Transitioning to UX/UI design, I bring project management and human-centered des
 |               |               |               |
 | :-------------| :-------------| :-------------|
 |*User Reasearch|*Wireframing   |*Prototyping   |
+|*nteraction Design |*Usability Testing   |*Project Management  |
 
 ### Education
 **Bachelor of Technology: Urban  Engineering**
