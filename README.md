@@ -57,8 +57,8 @@ Transitioning to UX/UI design, I bring project management and human-centered des
 **Mikuni Chochin**
 -UI/UX Design 
 Web-page photo contest for Mikuni Chochin, focusing on the history and cultural significance of traditional Japanese lanterns.
-[Web-Page] https://www.mikuniminato.com/en
-[Case Study] <iframe src="https://www.behance.net/embed/project/206919081?ilo0=1" height="316" width="404" allowfullscreen lazyload frameborder="0" allow="clipboard-write" refererPolicy="strict-origin-when-cross-origin"></iframe>
+[Web-Page] (https://www.mikuniminato.com/en)
+[Case Study] (https://www.behance.net/gallery/206919081/UXUI-Web-App-Case-Study)
 
 **The Baobab Route**
 -Research and UI/UX Design 
